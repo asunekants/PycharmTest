@@ -8,4 +8,3 @@ greeting = 'Nice to meet you ' + user_text
 
 print(greeting)
 
-#Test comment for versioning 1
